@@ -103,7 +103,7 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
-![alt text](<../Screenshot from 2025-04-17 14-55-27.png>)
+![alt text](<Screenshot from 2025-04-17 14-55-27.png>)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -199,7 +199,7 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
-![alt text](<../Screenshot from 2025-04-17 14-51-52.png>)
+![alt text](<Screenshot from 2025-04-17 14-51-52.png>)
 
 # RESULT:
 The program is executed successfully.
